@@ -1,0 +1,4 @@
+Colores imagenes de servicios:
+$rosado-diseño: #ff66c4; 
+$azul-diseño: #269cb6; 
+$naranja-diseño: #f38759 

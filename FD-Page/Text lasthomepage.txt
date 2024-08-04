@@ -1,0 +1,24 @@
+Beneficios de trabajar con Fácil Digital
+
+Diseño y Desarrollo Web -  $color-amarillo: #ffce2b
+Entrega Rápida -  $color-naranja: #f38759
+Actualizaciones y Mantenimiento  -  $color-celeste: #269cb6
+Precios Competitivos  -  $color-rosado: #ff66c4
+Soporte Técnico Constante  -  $color-amarillo: #ffce2b
+Experiencia y Profesionalismo  - $color-naranja: #f38759 
+
+--Colores:
+$color-amarillo: #ffce2b
+$color-naranja: #f38759
+$color-celeste: #269cb6
+$color-rosado: #ff66c4
+
+Ir variando los colores, empezar desde el primero
+
+Una palabra en grande (beneficio), que vaya cambiando
+
+Ultimo cuadro con boton debajo
+
+En Fácil Digital, creemos en hacer las cosas... ¡Fácil!
+
+Boton color negro: Comenzar ahora
