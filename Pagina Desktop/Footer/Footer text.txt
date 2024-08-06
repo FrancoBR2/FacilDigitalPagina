@@ -1,0 +1,9 @@
+Color de fondo:: $fondo: #e1e1e1
+
+Botones centrados: Inicio, Servicios, Nosotros y Contacto
+
+"logo de derechos" 2024. Facil Digital Co. Todos los derechos reservados
+
+--Todos los textos con Raleway
+
+-Te adjunto el "logo de derechos"
