@@ -1,0 +1,37 @@
+DISEÑO WEB
+Tu página web, sin estrés
+--Raleway
+
+En Fácil Digital, diseñamos y desarrollamos sitios web atractivos, creamos logos únicos y ofrecemos asesoramiento personalizado.
+
+BOTON "CONOCE MÁS" Color: $botton: #2f6735
+
+"logo" Fácil Digital
+
+En Fácil Digital, nos especializamos en crear soluciones digitales innovadoras y personalizadas. 
+
+Estamos comprometidos con la excelencia y la satisfacción del cliente. Contáctanos y descubre cómo podemos llevar tu presencia digital al siguiente nivel.
+
+
+1_ DISEÑO WEB
+Creamos sitios web atractivos y funcionales, adaptados a las necesidades específicas de tu negocio. Desde páginas informativas hasta plataformas de comercio electrónico, garantizamos una experiencia de usuario excepcional.
+
+2_ ASESORAMIENTO PERSONALIZADO
+Ofrecemos asesoramiento personalizado y presencial para ayudarte a tomar las mejores decisiones en tu estrategia digital y guiarte en cada paso del proceso.
+
+3_ DISEÑAMOS EL LOGO PARA TU EMPRESA
+Diseñamos logos únicos y memorables que reflejan la identidad y valores de tu empresa. Un buen logo es clave para establecer una marca fuerte y reconocible.
+
+--TODO LO ANTERIOR CON POPPINS--
+
+
+Obtené el control total de tu sitio web --Raleway
+
+---CARRUSEL DE BENEFICIOS--- Te lo adjunto en otra carpeta
+
+BOTON: "Quiero mi Sitio Web"  Color: $botton: #ffce2b
+
+
+
+
+
