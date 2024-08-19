@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Diseño y Desarrollo Web",
+        "descripcion": "En Fácil Digital, creamos sitios web personalizados que lucen increíbles y ofrecen una experiencia de usuario excepcional.",
+        "image": "https://i.ibb.co/w7WhtBn/beneficio-1.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Soporte Técnico Constante",
+        "descripcion": "Nuestro equipo de soporte técnico está disponible en cualquier momento para asegurar que tu sitio web funcione perfectamente.",
+        "image": "https://i.ibb.co/Lh7rD5x/beneficio-2.png"
+    },
+    {
+        "id": 3,
+        "titulo": "Compromiso con el Cliente",
+        "descripcion": "Con años de experiencia, nuestro equipo de expertos en diseño y desarrollo web garantiza resultados excepcionales.",
+        "image": "https://i.ibb.co/zhQX4CR/beneficio-3.png"
+    },
+    {
+        "id": 4,
+        "titulo": "Entrega Rápida",
+        "descripcion": "Valoramos tu tiempo. En Fácil Digital garantizamos entregas rápidas sin comprometer la calidad.",
+        "image": "https://i.ibb.co/w6P5BxG/beneficio-4.png"
+    },
+    {
+        "id": 5,
+        "titulo": "Precios Competitivos",
+        "descripcion": "Ofrecemos soluciones de alta calidad a precios accesibles. Diseño web profesional sin romper el banco.",
+        "image": "https://i.ibb.co/XL8DMkZ/beneficio-5.png"
+    },
+    {
+        "id": 6,
+        "titulo": "Actualizaciones y Mantenimiento",
+        "descripcion": "Mantén tu sitio web siempre actualizado con nuestro servicio de mantenimiento continuo.",
+        "image": "https://i.ibb.co/9NcssHM/beneficio-6.png"
+    }
+]
