@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "titulo":"Diseño Web",
+        "descripcion":"Diseñamos sitios web atractivos y funcionales que destacan. Personalizamos cada detalle para una experiencia visual única.",
+        "image":"https://i.ibb.co/87w8n5W/service-1.png"
+    },
+    {
+        "id":"2",
+        "titulo":"Desarrollo Web",
+        "descripcion":"Desarrollamos soluciones web escalables y eficientes. Aplicamos tecnología avanzada para un rendimiento óptimo.",
+        "image":"https://i.ibb.co/fqJ2DQj/service-2.png"
+    },
+    {
+        "id":"3",
+        "titulo":"Diseño de Logo",
+        "descripcion":"Creamos logos que capturan la esencia de tu marca. Diseños únicos que reflejan la identidad de tu empresa.",
+        "image":"https://i.ibb.co/nkRFVcC/service-3.png"
+    },
+    {
+        "id":"4",
+        "titulo":"Diseño Movil",
+        "descripcion":"Mantenemos tu sitio web actualizado y seguro. Nos encargamos de todo para un funcionamiento impecable.",
+        "image":"https://i.ibb.co/qkz8jtb/service-4.png"
+    },
+    {
+        "id":"5",
+        "titulo":"Mantenimiento Web",
+        "descripcion":"Desarrollamos aplicaciones móviles intuitivas y atractivas. Soluciones que impulsan tu negocio.",
+        "image":"https://i.ibb.co/5rB9GXH/service-5.png"
+    }
+]
